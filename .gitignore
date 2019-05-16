@@ -1,0 +1,8 @@
+.vscode/
+all.csv
+all.json
+text.csv
+.~lock.*
+a.out
+parsestring.h.gch
+*.pbix
